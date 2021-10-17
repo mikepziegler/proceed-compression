@@ -1,10 +1,10 @@
 {
   "name": "proceed-compression",
   "version": "1.0.0",
-  "description": "A npm package for compress files. This is a project that will be implemented with the Learning Material of the Zurcher University of Applied Science (ZHAW)",
-  "main": "index.js",
+  "description": "A npm package for compressing files. This is a project that will be implemented with the Learning Material of the Zurcher University of Applied Science (ZHAW). No API Key required given that the compression will run on your local maschine.",
+  "main": "src/module.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
